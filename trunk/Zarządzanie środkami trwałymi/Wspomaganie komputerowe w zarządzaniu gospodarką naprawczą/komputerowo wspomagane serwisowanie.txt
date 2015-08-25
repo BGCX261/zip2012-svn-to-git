@@ -1,0 +1,6 @@
+Computerised Maintenance Management System
+
+Mean Time Between Failures (MTBF) and Mean Time To Repair (MTTR)
+
+“Overall Equipment Effectiveness” (OEE) 
+
